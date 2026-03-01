@@ -1,6 +1,7 @@
-+++
-title = "Input"
-weight = 10
-+++
+---
+title: "Inputs and drafts"
+linkTitle: "Inputs and drafts"
+weight: 90
+---
 
-Input and feedback to the SAMT-BU project.
+Inputs and drafts for the SAMT-BU project.

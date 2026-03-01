@@ -1,6 +1,7 @@
-+++
-title = "Innspill"
-weight = 10
-+++
+---
+title: "Utkast og innspill"
+linkTitle: "Utkast og innspill"
+weight: 90
+---
 
-Innspill og tilbakemeldinger til SAMT-BU-prosjektet.
+Utkast og innspill til SAMT-BU-prosjektet.
