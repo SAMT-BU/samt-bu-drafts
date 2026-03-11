@@ -15,15 +15,19 @@ Ddasd
 
 Ingen tabell
 
+| Kolonne 1 | Kolonne 2 | Kolonne 3 |
+
+| --- | --- | --- |
+
+|1 | 2 | 3 |
+
+| 4 | 5 | 6 |
+
+  
+
   
 
 ## Kap. 2
-
-  
-
-  
-
-  
 
 ![](bilde-1773241554924.png)
 
