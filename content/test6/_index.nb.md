@@ -4,25 +4,17 @@ title: test6
 linkTitle: test6
 weight: 36
 ---
-
 ## Kap. 1
 
 Ddasd
 
-  
-
-**Dasdsa**
-
-**adssd**
-
-Adssad
-
-dsds
+1.  **Dasdsa**
+2.  **adssd**
+3.  Adssad
+4.  dsds
 
   
 
 ## Kap. 2
-
-  
 
 ![](bilde-1773237667458.png)
