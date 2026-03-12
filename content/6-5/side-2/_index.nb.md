@@ -5,5 +5,4 @@ weight: 12
 status: Ny
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
 ---
-
-2
+222
