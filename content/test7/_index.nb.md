@@ -17,7 +17,7 @@ En nummereert liste:
 - asdad
 - asd
 - asd
-- og #4
+- og 4
 
 og et bilde:
 
