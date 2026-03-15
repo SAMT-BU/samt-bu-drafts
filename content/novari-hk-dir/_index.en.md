@@ -3,7 +3,7 @@ id: 08cae4d9-221a-4182-abe9-b73e0970e639
 title: "Novari and HK-dir"
 linkTitle: "Novari and HK-dir"
 weight: 30
-last_editor: Erik Hagen
+last_editor: erikhag1git (Erik Hagen)
 
 ---
 
