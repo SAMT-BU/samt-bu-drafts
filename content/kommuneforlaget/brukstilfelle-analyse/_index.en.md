@@ -3,7 +3,6 @@ id: df6ebc64-e1d4-4fd7-a190-9f077eb085d2
 title: "KF's analysis of use cases 1–19 (Digdir Felles løft / SAMT-BU)"
 linkTitle: "Use case analysis"
 weight: 10
-last_editor: erikhag1git (Erik Hagen)
 lastmod: 2026-03-15T23:49:27+01:00
 
 ---
