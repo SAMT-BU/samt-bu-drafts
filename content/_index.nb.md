@@ -3,7 +3,8 @@ id: 24122ffb-fd3c-45b1-9cce-524b25b32fa4
 title: "Utkast og innspill"
 linkTitle: "Utkast og innspill"
 weight: 90
-lastmod: 2026-03-15T23:49:27+01:00
+lastmod: 2026-03-27T23:29:12+01:00
+last_editor: Erik Hagen
 
 ---
 

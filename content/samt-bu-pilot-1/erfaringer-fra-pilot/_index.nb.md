@@ -3,7 +3,8 @@ id: b7c37990-4656-47d9-8607-0891848b78b0
 title: Erfaringer fra pilot
 linkTitle: Erfaringer fra pilot
 weight: 10
-lastmod: 2026-03-16T00:42:26+01:00
+lastmod: 2026-03-27T23:29:12+01:00
+last_editor: Erik Hagen
 
 ---
 Erfaringer fra 1. pilot (Versjon 0.1 – 23.02.2026). Danner grunnlag for løpende oppdatering av håndboken for gjennomføring av piloter.
