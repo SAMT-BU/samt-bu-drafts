@@ -4,7 +4,7 @@ id: 08cae4d9-221a-4182-abe9-b73e0970e639
 title: "Novari and HK-dir"
 linkTitle: "Novari and HK-dir"
 weight: 30
-lastmod: 2026-03-28T10:01:45+01:00
+lastmod: 2026-03-28T10:12:28+01:00
 last_editor: Erik Hagen
 
 ---
