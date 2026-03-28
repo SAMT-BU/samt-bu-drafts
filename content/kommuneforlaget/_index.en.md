@@ -1,5 +1,5 @@
 ---
-# id: auto-generert – kopierte verdier overskrives automatisk ved push
+# id: auto-generated – copied values are overwritten automatically on push
 id: 13e2da34-ee0e-42be-b2c3-3c98d7147ab9
 title: "Kommuneforlaget (KF)"
 linkTitle: "Kommuneforlaget"
