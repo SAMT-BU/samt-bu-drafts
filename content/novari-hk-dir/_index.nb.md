@@ -5,7 +5,7 @@ title: Novari og HK-dir
 linkTitle: Novari og HK-dir
 weight: 50
 toc: true
-lastmod: 2026-04-19T16:20:20+02:00
+lastmod: 2026-04-19T16:25:48+02:00
 last_editor: Erik Hagen
 
 ---
